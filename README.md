@@ -1,1 +1,1 @@
-# waterlogging_depth_prediction_dataset
+This is a dataset on the depth of waterlogging in urban areas. The dataset was obtained from Prof. Jinliang Yao, Hangzhou University of Electronic Science and Technology. For further inquiries, please contact the e-mail address:  caizhipenghdu@163.com
